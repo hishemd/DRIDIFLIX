@@ -1,0 +1,6 @@
+{
+  "name": "DRIDI FLIX",
+  "description": "Netflix-style IPTV player supporting Xtream Codes & M3U playlists with full Arabic RTL support and external player integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
